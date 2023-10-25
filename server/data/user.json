@@ -1,0 +1,29 @@
+[
+    {
+        "id":1,
+        "userName":"ainnett0",
+        "email":"jleander0@newyorker.com",
+        "password":"123123",
+        "role":"Admin",
+        "phoneNumber":"4693354818",
+        "address":"8943 Fulton Parkway"
+    },
+    {
+        "id":2,
+        "userName":"eaxell1",
+        "email":"fmacken1@sciencedaily.com",
+        "password":"123123",
+        "role":"Admin",
+        "phoneNumber":"1655199959",
+        "address":"842 Bashford Terrace"
+    },
+    {
+        "id":3,
+        "userName":"rstedall2",
+        "email":"sosband2@irs.gov",
+        "password":"123123",
+        "role":"Staff",
+        "phoneNumber":"5186583905",
+        "address":"39 Shasta Center"
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "name": "Relaxed Printed T-Shirt",
+        "description": "Bahan terbuat dari katun yang nyaman",
+        "price": 399000,
+        "stock": 10,
+        "imgUrl": "https://hm-media-prod.s3.amazonaws.com/pub/media/catalog/product/medium/eaf51e7e775069b7e4796f6c39b913a561771d73_xxl-1.jpg",
+        "categoryId": 3,
+        "authorId": 1,
+        "status": "Active"
+    },
+    {
+        "name": "Twill Overshirt",
+        "description": "Kemeja overshirt dengan motif kotak-kotak",
+        "price": 599000,
+        "stock": 20,
+        "imgUrl": "https://hm-media-prod.s3.amazonaws.com/pub/media/catalog/product/medium/7eddd2915739c10b4ec1b19e940dc03075058283_xxl-1.jpg",
+        "categoryId": 5,
+        "authorId": 2,
+        "status": "Active"
+    },
+    {
+        "name": "Celana Pendek Denim Santai",
+        "description": "Celana pendek berbahan denim yang membuat kalian tampak keren",
+        "price": 299000,
+        "stock": 15,
+        "imgUrl": "https://hm-media-prod.s3.amazonaws.com/pub/media/catalog/product/medium/97ff11c204920a8824730e3c91c51bcbc2ea93b2_xxl-1.jpg",
+        "categoryId": 2,
+        "authorId": 3,
+        "status": "Active"
+    },
+    {
+        "name": "Sepatu Espandril",
+        "description": "Sepatu santai dengan bentuk trendi",
+        "price": 349000,
+        "stock": 12,
+        "imgUrl": "https://hm-media-prod.s3.amazonaws.com/pub/media/catalog/product/medium/1e00c9adc5304f99edc4d318c77f5cf44b9ccbef_xxl-1.jpg",
+        "categoryId": 6,
+        "authorId": 1,
+        "status": "Active"
+    },
+    {
+        "name": "Sports Jogger",
+        "description": "Celana jogger yang cocok dipakai untuk olahraga dan kegiatan sehari-hari",
+        "price": 429000,
+        "stock": 35,
+        "imgUrl": "https://hm-media-prod.s3.amazonaws.com/pub/media/catalog/product/medium/b0d598132de36027f69ffadc6a918971fbef99ed_xxl-1.jpg",
+        "categoryId": 1,
+        "authorId": 2,
+        "status": "Active"
+    },
+    {
+        "name": "Lightweight Puffer Jacket",
+        "description": "Jaket puffer yang ringan membuat kamu tampil keren",
+        "price": 780000,
+        "stock": 15,
+        "imgUrl": "https://hm-media-prod.s3.amazonaws.com/pub/media/catalog/product/medium/3de59239c7bd719230ae446666a85caea10de2d2_xxl-1.jpg",
+        "categoryId": 4,
+        "authorId": 3,
+        "status": "Active"
+    },
+    {
+        "name": "Oversized Blouse",
+        "description": "Kemeja Oversize dengan bahan yang nyaman",
+        "price": 399000,
+        "stock": 10,
+        "imgUrl": "https://hm-media-prod.s3.amazonaws.com/pub/media/catalog/product/medium/974e3a7115ba272104a1184ebad5491bcad467c7_xxl-1.jpg",
+        "categoryId": 5,
+        "authorId": 1,
+        "status": "Active"
+    },
+    {
+        "name": "Oversized Fit Cotton T-Shirt",
+        "description": "Kemeja berbahan katun",
+        "price": 199000,
+        "stock": 20,
+        "imgUrl": "https://hm-media-prod.s3.amazonaws.com/pub/media/catalog/product/medium/7d3a339111b6f6ce7e4c1976e83fb8480b799b90_xxl-1.jpg",
+        "categoryId": 3,
+        "authorId": 2,
+        "status": "Active"
+    },
+    {
+        "name": "MAMA Seamless Legging",
+        "description": "Legging nyaman dan santai",
+        "price": 299000,
+        "stock": 15,
+        "imgUrl": "https://hm-media-prod.s3.amazonaws.com/pub/media/catalog/product/medium/2a85b62136344324effc1d6d758c3c3be4dbd313_xxl-1.jpg",
+        "categoryId": 1,
+        "authorId": 3,
+        "status": "Active"
+    },
+    {
+        "name": "Sepatu Espandril",
+        "description": "Sepatu santai dengan bentuk trendi",
+        "price": 349000,
+        "stock": 12,
+        "imgUrl": "https://hm-media-prod.s3.amazonaws.com/pub/media/catalog/product/medium/1e00c9adc5304f99edc4d318c77f5cf44b9ccbef_xxl-1.jpg",
+        "categoryId": 6,
+        "authorId": 1,
+        "status": "Active"
+    },
+    {
+        "name": "Loafer",
+        "description": "Sepatu kulit untuk kerja dan acara santai",
+        "price": 429000,
+        "stock": 35,
+        "imgUrl": "https://hm-media-prod.s3.amazonaws.com/pub/media/catalog/product/medium/53dc970bd7fa767896433be2044e567dd5bd207b_xxl-1.jpg",
+        "categoryId": 7,
+        "authorId": 2,
+        "status": "Active"
+    },
+    {
+        "name": "Shopper",
+        "description": "Tas berbahan kulit dengan kualitas terbaik",
+        "price": 780000,
+        "stock": 15,
+        "imgUrl": "https://hm-media-prod.s3.amazonaws.com/pub/media/catalog/product/medium/d9066619db984b2cc0613f63ea6a5b0f9786cdd7_xxl-1.jpg",
+        "categoryId": 8,
+        "authorId": 3,
+        "status": "Active"
+    },
+    {
+        "name": "Relaxed Printed T-Shirt",
+        "description": "Bahan terbuat dari katun yang nyaman",
+        "price": 399000,
+        "stock": 10,
+        "imgUrl": "https://hm-media-prod.s3.amazonaws.com/pub/media/catalog/product/medium/eaf51e7e775069b7e4796f6c39b913a561771d73_xxl-1.jpg",
+        "categoryId": 3,
+        "authorId": 1,
+        "status": "Active"
+    },
+    {
+        "name": "Gathered Bodycon Dress",
+        "description": "Dress dengan motif garis hitam putih",
+        "price": 599000,
+        "stock": 20,
+        "imgUrl": "https://hm-media-prod.s3.amazonaws.com/pub/media/catalog/product/medium/28598f862408afb233eab9864700af5dc9078b52_xxl-1.jpg",
+        "categoryId": 9,
+        "authorId": 2,
+        "status": "Active"
+    },
+    {
+        "name": "Sports Hoodie",
+        "description": "Hoodie santai dengan bahan paling nyaman",
+        "price": 799000,
+        "stock": 15,
+        "imgUrl": "https://hm-media-prod.s3.amazonaws.com/pub/media/catalog/product/medium/4c64738063e3748709fcf1513deba0859aaf6975_xxl-1.jpg",
+        "categoryId": 4,
+        "authorId": 3,
+        "status": "Active"
+    },
+    {
+        "name": "Relaxed Satin Short",
+        "description": "Celana pendek santai",
+        "price": 299000,
+        "stock": 12,
+        "imgUrl": "https://hm-media-prod.s3.amazonaws.com/pub/media/catalog/product/medium/cf4a9145ce388d7a6e15d1d270ca1d0766634f6c_xxl-1.jpg",
+        "categoryId": 2,
+        "authorId": 1,
+        "status": "Active"
+    },
+    {
+        "name": "Straw Hat",
+        "description": "Topi bajak laut",
+        "price": 429000,
+        "stock": 35,
+        "imgUrl": "https://hm-media-prod.s3.amazonaws.com/pub/media/catalog/product/medium/9b0017f1fb306ae67ff52260445cf7803631ae3e_xxl-1.jpg",
+        "categoryId": 7,
+        "authorId": 2,
+        "status": "Active"
+    },
+    {
+        "name": "Bucket Hat",
+        "description": "Topi ember",
+        "price": 249000,
+        "stock": 15,
+        "imgUrl": "https://hm-media-prod.s3.amazonaws.com/pub/media/catalog/product/medium/d888cb4cac9efab70c93e0000f711da38cd922ce_xxl-1.jpg",
+        "categoryId": 7,
+        "authorId": 3,
+        "status": "Active"
+    }
+]

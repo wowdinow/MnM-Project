@@ -1,0 +1,22 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "postgres",
+    "database": "M&M_db",
+    "host": "localhost",
+    "dialect": "postgres",
+    "port": 5433
+  },
+  "test": {
+    "username": "postgres",
+    "password": "postgres",
+    "database": "M&M_test",
+    "host": "localhost",
+    "dialect": "postgres",
+    "port": 5433,
+    "logging": false
+  },
+  "production": {
+    "use_env_variable": "database_url"
+  }
+}
